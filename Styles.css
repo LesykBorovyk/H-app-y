@@ -1,0 +1,26 @@
+/* Top bar styles */
+.topBar{
+    background-color: bisque;
+    position: absolute;
+        height: 90px;
+        left: 0%;
+        right: 0%;
+        top: 0px;
+        box-shadow: 3px 3px 10px rgba(0,0,0,0.2);
+}
+
+.icon{
+    background-color: #EEDDFF;
+        border-radius: 9px;
+        margin-top: 25px;
+        margin-bottom: 25px;
+        margin-left: 150px;
+        margin-right: 1250px;
+        padding: 10px;
+
+        background: linear-gradient(134.6deg, #D140F8 -3.11%, #788CE9 33.98%, #37C2DE 66.35%, #1ECCAE 98.49%);
+}
+
+#iconText{    
+    color: white;
+}
